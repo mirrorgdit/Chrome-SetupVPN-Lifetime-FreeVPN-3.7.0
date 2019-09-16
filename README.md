@@ -6,9 +6,8 @@ setupvpn for chrome 谷歌浏览器 FreeVPN-3.7.0 插件
 
 1.克隆或者直接下载  git clone or download zip(完成后需解压);
 
-2.打开谷歌浏览器 右上角的三个点 --> 更多工具 --> 扩展程序(或者直接地址栏输入 chrome://extensions/ )
+2.打开谷歌浏览器 直接地址栏输入 chrome://extensions/ 
 
-![image](https://github.com/mirrorgdit/Chrome-SetupVPN-Lifetime-FreeVPN-3.7.0/tree/master/assets/images/step1.png)
 
 3.打开开发者模式 --> 加载已解压的扩展程序
 
